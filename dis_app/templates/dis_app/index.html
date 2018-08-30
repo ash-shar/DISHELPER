@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% load static %}
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/images/favicon.jpg">
+    <title>Disaster Helper</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="http://rawgit.com/ash-shar/DISHELPER/master/static/css/style.css" rel="stylesheet">
+    <!-- You can change the theme colors from here -->
+    <link href="http://rawgit.com/ash-shar/DISHELPER/master/static/css/colors/blue.css" id="theme" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body class="fix-header fix-sidebar card-no-border">
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+    <div class="preloader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" /> </svg>
+    </div>
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+        <!-- Topbar header - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+        
+        <!-- ============================================================== -->
+        <!-- End Topbar header -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <aside class="left-sidebar">
+            <span style="padding-left:10px;">
+     
+                <img src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/images/logo.jpg" alt="homepage" class="dark-logo" />
+                
+            </span>
+     
+            <!-- <span>
+                     <img src="assets/images/logo-text.png" alt="homepage" class="dark-logo" />
+            </span>
+ -->
+            <!-- Sidebar scroll-->
+            <div class="scroll-sidebar">
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav">
+                    <ul id="sidebarnav">
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/index.html" class="waves-effect"><i class="fa fa-home m-r-10" aria-hidden="true"></i>Home</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/system_details.html" class="waves-effect"><i class="fa fa-gears m-r-10" aria-hidden="true"></i>System Details</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/situational-classifier.html" class="waves-effect"><i class="fa  fa-tags m-r-10" aria-hidden="true"></i>Situational Classifier</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/disaster-summarizer.html" class="waves-effect"><i class="fa  fa-pencil-square-o m-r-10" aria-hidden="true"></i>Disaster Summarizer</a>
+                        </li>
+
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/communal-identifier.html" class="waves-effect"><i class="fa fa-ban m-r-10" aria-hidden="true"></i>Communal Identifier</a>
+                        </li>
+
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/performance.html" class="waves-effect"><i class="fa fa-table m-r-10" aria-hidden="true"></i>Performance</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/our-team.html" class="waves-effect"><i class="fa fa-users m-r-10" aria-hidden="true"></i>Our Team</a>
+                        </li>
+                       <!--  <li>
+                            <a href="pages-error-404.html" class="waves-effect"><i class="fa fa-info-circle m-r-10" aria-hidden="true"></i>Error 404</a>
+                        </li> -->
+                    </ul>
+                    <div class="text-center m-t-30">
+                        <a href="https://itra.medialabasia.in/data/Documents/DISARM/publications/7.pdf" target="_blank" class="btn btn-danger"> Publication</a>
+                    </div>
+                </nav>
+                <!-- End Sidebar navigation -->
+            </div>
+            <!-- End Sidebar scroll-->
+        </aside>
+        <!-- ============================================================== -->
+        <!-- End Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Page wrapper  -->
+        <!-- ============================================================== -->
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container-fluid">
+                <!-- ============================================================== -->
+                <!-- Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <div class="row page-titles">
+                    <div class="col-md-8 col-8 align-self-center">
+                        <h2 class="text-themecolor m-b-0 m-t-0">An Aid to Disaster Relief Operations</h2>
+                    </div>
+                    <div class="col-md-4 col-4 align-right">
+                        <!-- <a href="https://wrappixel.com/templates/monsteradmin/" class="btn pull-right hidden-sm-down btn-success"> Upgrade to Pro</a> -->
+                        <ul style="font-size:20px;" type="none">
+                        <li class="breadcrumb-item">Follow us on: </li>
+                        <li class="breadcrumb-item"><a href="https://www.facebook.com/iitkgpcnerg" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+                        <li class="breadcrumb-item"><a href="http://twitter.com/cnerg" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+                        <li class="breadcrumb-item"><a href="https://plus.google.com/113691318688327324511" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    </ul>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <!-- ============================================================== -->
+                <!-- Start Page Content -->
+                <!-- ============================================================== -->
+                <!-- Row -->
+
+                <!-- Row -->
+                <!-- Row -->
+                <div class="row">
+                    <!-- Column -->
+                    <div class="col-lg-8">
+                        <div class="card">
+                            <div class="card-block">
+                                <h2 class="card-title">What does the system do?</h2>
+                                Microblogging sites like Twitter have become important sources of real-time information over the past decade especially during emergency scenarios. During a disaster, various types of information are posted by users in huge volume and at rapid rates, which include <b>situational information </b> (status updates like number of casualties, current situation in regions affected by disaster etc.), <b>sentiment</b> (e.g., sympathy for those affected by the disaster) and <b>personal opinions</b> (e.g., on the adequacy of relief operations). To effectively utilize the microblogging sites as an aid to the relief operations during disaster events, the following two tasks are essential:
+                                <ol type="i">
+                                <li> <b>Extracting situational information</b> from among the large amounts of sentiment and opinion. Classification of posts into Situational and Non-Situational catetgories is required. </li> 
+                                <li> <b>Summarizing situational information</b> to help decision-making processes when time is critical.</li>
+                                </ol>
+                                
+                                <b>DisHelper</b> efficiently caters both of these tasks by making use of disaster-specific typicalities.
+
+                                <p>
+                                    &nbsp;
+                                </p>
+
+                                <p>
+                                <a role="button" class="btn btn-outline-success btn-lg"  href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/situational-classifier.html">Try Situational Classifier</a> 
+                                <a role="button" class="btn btn-primary btn-lg" href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/disaster-summarizer.html" style="float:right;">Try Disaster Summarizer</a>
+                                </p>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4"  style="float:right;">
+
+                        <div class="row">
+                        <div class="col-lg-10">
+                            <img class="img-responsive" src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/images/dis2.jpg" alt="Card">
+                            <div class="card">
+                            <div class="card-block">
+                                <h4 class="font-normal">Effective Relief Operations</h4>
+                            </div>
+                        </div>
+                         </div>
+
+
+                        <div class="col-lg-10">
+                        <img class="card-img-top img-responsive" src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/images/dis3.jpg" alt="Card">
+                        <div class="card">
+                            
+                            <div class="card-block">
+                                <!-- <ul class="list-inline font-14">
+                                    <li class="p-l-0">20 May 2016</li>
+                                    <li><a href="javascript:void(0)" class="link">3 Comment</a></li>
+                                </ul> -->
+                                <h4 class="font-normal">Smoother Monitoring</h4>
+                            </div>
+                        </div>
+                         </div>
+
+                    </div>
+                    <!-- Column -->
+                    <!-- Column -->
+                    <!-- Column -->
+                </div>
+                <!-- Row -->
+                <!-- ============================================================== -->
+                <!-- End PAge Content -->
+                <!-- ============================================================== -->
+            </div>
+            <!-- ============================================================== -->
+            <!-- End Container fluid  -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- footer -->
+            <!-- ============================================================== -->
+            <!-- <footer class="footer text-center">
+                © 2017 Monster Admin by wrappixel.com
+            </footer>
+ -->            <!-- ============================================================== -->
+            <!-- End footer -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Page wrapper  -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/bootstrap/js/tether.min.js"></script>
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/jquery.slimscroll.js"></script>
+    <!--Wave Effects -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/sidebarmenu.js"></script>
+    <!--stickey kit -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js"></script>
+    <!--Custom JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/custom.min.js"></script>
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+    <!-- Flot Charts JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/flot/jquery.flot.js"></script>
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/flot.tooltip/js/jquery.flot.tooltip.min.js"></script>
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/flot-data.js"></script>
+    <!-- ============================================================== -->
+    <!-- Style switcher -->
+    <!-- ============================================================== -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/styleswitcher/jQuery.style.switcher.js"></script>
+</body>
+
+</html>

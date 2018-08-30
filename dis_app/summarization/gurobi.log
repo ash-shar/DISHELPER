@@ -1,0 +1,74 @@
+
+Gurobi 7.0.1 (linux64, Python) logging started Wed Nov 29 12:14:59 2017
+
+
+Gurobi 7.0.1 (linux64) logging started Wed Nov 29 12:26:12 2017
+
+
+ERROR 10009: License expired 2017-05-28 - license file '/home/du3/13CS30043/BTP/System/Gandhi_Award/summarization/gurobi.lic'
+
+
+Gurobi 7.0.1 (linux64, Python) logging started Wed Nov 29 12:36:52 2017
+
+Optimize a model with 1 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 2e+01]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -0.000000000e+00
+Optimize a model with 1 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 2e+01]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -0.000000000e+00
+
+Gurobi 7.0.1 (linux64, Python) logging started Wed Nov 29 12:39:22 2017
+
+Optimize a model with 1 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+02, 3e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -0.000000000e+00
+
+Gurobi 7.0.1 (linux64, Python) logging started Wed Nov 29 12:42:30 2017
+
+Optimize a model with 1 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+02, 3e+02]
+Presolve removed 1 rows and 0 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds
+Optimal objective -0.000000000e+00

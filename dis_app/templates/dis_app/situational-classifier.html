@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% load static %}
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/images/favicon.jpg">
+    <title>Disaster Helper</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="http://rawgit.com/ash-shar/DISHELPER/master/static/css/style.css" rel="stylesheet">
+    <!-- You can change the theme colors from here -->
+    <link href="http://rawgit.com/ash-shar/DISHELPER/master/static/css/colors/blue.css" id="theme" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body class="fix-header fix-sidebar card-no-border">
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+    <div class="preloader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" /> </svg>
+    </div>
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+        <!-- Topbar header - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+        
+        <!-- ============================================================== -->
+        <!-- End Topbar header -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <aside class="left-sidebar">
+            <span style="padding-left:10px;">
+     
+                <img src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/images/logo.jpg" alt="homepage" class="dark-logo" />
+                
+            </span>
+     
+            <!-- <span>
+                     <img src="assets/images/logo-text.png" alt="homepage" class="dark-logo" />
+            </span>
+ -->
+            <!-- Sidebar scroll-->
+            <div class="scroll-sidebar">
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav">
+                    <ul id="sidebarnav">
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/index.html" class="waves-effect"><i class="fa fa-home m-r-10" aria-hidden="true"></i>Home</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/system_details.html" class="waves-effect"><i class="fa fa-gears m-r-10" aria-hidden="true"></i>System Details</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/situational-classifier.html" class="waves-effect"><i class="fa  fa-tags m-r-10" aria-hidden="true"></i>Situational Classifier</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/disaster-summarizer.html" class="waves-effect"><i class="fa  fa-pencil-square-o m-r-10" aria-hidden="true"></i>Disaster Summarizer</a>
+                        </li>
+
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/communal-identifier.html" class="waves-effect"><i class="fa fa-ban m-r-10" aria-hidden="true"></i>Communal Identifier</a>
+                        </li>
+
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/performance.html" class="waves-effect"><i class="fa fa-table m-r-10" aria-hidden="true"></i>Performance</a>
+                        </li>
+                        <li>
+                            <a href="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/our-team.html" class="waves-effect"><i class="fa fa-users m-r-10" aria-hidden="true"></i>Our Team</a>
+                        </li>
+                       <!--  <li>
+                            <a href="pages-error-404.html" class="waves-effect"><i class="fa fa-info-circle m-r-10" aria-hidden="true"></i>Error 404</a>
+                        </li> -->
+                    </ul>
+                    <div class="text-center m-t-30">
+                        <a href="https://itra.medialabasia.in/data/Documents/DISARM/publications/7.pdf" target="_blank" class="btn btn-danger"> Publication</a>
+                    </div>
+                </nav>
+                <!-- End Sidebar navigation -->
+            </div>
+            <!-- End Sidebar scroll-->
+        </aside>
+
+        <!-- ============================================================== -->
+        <!-- End Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Page wrapper  -->
+        <!-- ============================================================== -->
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container-fluid">
+                <!-- ============================================================== -->
+                <!-- Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <div class="row page-titles">
+                    <div class="col-md-8 col-8 align-self-center">
+                        <h2 class="text-themecolor m-b-0 m-t-0">Situational Classifier</h2>
+                    </div>
+                    <div class="col-md-4 col-4 align-right">
+                        <!-- <a href="https://wrappixel.com/templates/monsteradmin/" class="btn pull-right hidden-sm-down btn-success"> Upgrade to Pro</a> -->
+                        <ul style="font-size:20px;" type="none">
+                        <li class="breadcrumb-item">Follow us on: </li>
+                        <li class="breadcrumb-item"><a href="https://www.facebook.com/iitkgpcnerg" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+                        <li class="breadcrumb-item"><a href="http://twitter.com/cnerg" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+                        <li class="breadcrumb-item"><a href="https://plus.google.com/113691318688327324511" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    </ul>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <!-- ============================================================== -->
+                <!-- Start Page Content -->
+                <!-- ============================================================== -->
+                <!-- Row -->
+
+                <!-- Row -->
+                <!-- Row -->
+                <div class="row">
+                    <!-- Column -->
+                    <div class="col-lg-12">
+                        <div class="card">
+                            <div class="card-block">
+                                <h2 class="card-title">Quick Demo</h2>
+                                <form action="" method="post">{% csrf_token %}
+
+                                <p> Enter a Tweet to Classify:</p>
+
+                                <p>
+                                <input class="form-control form-control-lg" type="text" name="tweet" placeholder="Enter Tweet" required />
+
+                                <span style="font-size:13px;">
+                                Eg: <i>typhoon now making landfall in eastern samar, with winds of 175 to 210 kph, and rainfall up to 30mm per hour</i>
+                                </span>
+
+                                </p>
+
+                                <p>
+                                    <button type="submit" class="btn btn-primary btn-lg">Classify</button></span>
+
+                                </p>
+
+                                </form>
+
+                                {% if class.1 != "-1"%}
+
+                                <p>
+                                   <b> <span class="badge badge-danger">Tweet: </span>&nbsp; {{class.0}}</b>
+                                </p>
+
+                                <p>
+                                    <b><span class="badge badge-success">Tweet Label: </span>&nbsp; {{class.1}}</b>
+                                </p>
+
+                                <p>
+                                    <b><span class="badge badge-primary">Confidence Score: </span>&nbsp; {{class.2}}</b>
+                                </p>
+
+                                <p>
+                                    &nbsp;
+                                </p>
+
+
+                                {% endif %}
+
+                                <p>
+                                <b>Note: </b> Please provide only disaster-related tweets as input.
+                                </p>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                    <!-- Column -->
+                </div>
+                <!-- Row -->
+
+
+                <div class="row">
+                    <!-- Column -->
+                    <div class="col-lg-12">
+                        <div class="card">
+                            <div class="card-block">
+                                <h2 class="card-title">Classify Multiple Tweets</h2>
+
+
+                                <form action="http://cnerg.iitkgp.ac.in/p/disaster-helper/dishelper/situational-classifier.html" method="post" enctype="multipart/form-data"> {% csrf_token %}
+                                <p>
+                                    Upload File:
+                                </p>
+
+                                <div class="row">
+                                    <div class="col-lg-3">
+                                        <input type="file" name="myfile" class="form-control-file" required>
+                                    </div>
+
+                                    <div class="col-lg-1"></div>
+
+                                    <div class="col-lg-4"> 
+                                        <button type="submit" class="btn btn-success btn-lg">Classify</button></span>
+                                    </div>
+                                </div>
+                                </form>
+<!--    
+                                <p>
+                                    <button type="button" class="btn btn-success btn-lg">Classify</button></span>
+                                </p> -->
+
+                                <p>
+                                    &nbsp;
+                                </p>
+
+
+                                {% if response%}
+                                    <p>
+                                        The output can be downloaded from <a href = "{response}">here</a>
+                                    </p>
+
+                                {% endif %}
+
+                                <!-- {{out_url}} -->
+
+                                <p>
+                                <b>Note: </b> Input file should contain one tweet in each line. Output file contains 3 columns (tab-separated): tweet, class (1 or 2) and confidence score of our classifier. <b>1</b> is situational and <b>2</b> is non-situational. Please provide only disaster-related tweets as input.
+                                </p>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                    <!-- Column -->
+                </div>
+
+                <!-- <input type="file" id="input-id" class = "file form-control" name="syllabus"/> -->
+
+
+                <!-- ============================================================== -->
+                <!-- End PAge Content -->
+                <!-- ============================================================== -->
+            </div>
+            <!-- ============================================================== -->
+            <!-- End Container fluid  -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- footer -->
+            <!-- ============================================================== -->
+            <!-- <footer class="footer text-center">
+                © 2017 Monster Admin by wrappixel.com
+            </footer>
+ -->            <!-- ============================================================== -->
+            <!-- End footer -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Page wrapper  -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/bootstrap/js/tether.min.js"></script>
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/jquery.slimscroll.js"></script>
+    <!--Wave Effects -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/sidebarmenu.js"></script>
+    <!--stickey kit -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js"></script>
+    <!--Custom JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/custom.min.js"></script>
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+    <!-- Flot Charts JavaScript -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/flot/jquery.flot.js"></script>
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/flot.tooltip/js/jquery.flot.tooltip.min.js"></script>
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/js/flot-data.js"></script>
+    <!-- ============================================================== -->
+    <!-- Style switcher -->
+    <!-- ============================================================== -->
+    <script src="http://rawgit.com/ash-shar/DISHELPER/master/static/assets/plugins/styleswitcher/jQuery.style.switcher.js"></script>
+</body>
+
+</html>

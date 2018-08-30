@@ -1,0 +1,16 @@
+thoughts	N	0.8927
+for	P	1.0000
+everyone	N	0.9830
+in	P	0.9987
+the	D	0.9993
+path	N	0.9998
+of	P	0.9985
+#typhoon	^	0.8757
+hope	V	0.7992
+lessons	N	0.9401
+from	P	0.9992
+#haiyan	^	0.8426
+will	V	0.9692
+save	V	0.9991
+lives	N	0.4822
+

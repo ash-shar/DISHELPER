@@ -1,0 +1,876 @@
+Avon
+Bloomfield
+Windsor
+Bristol
+Bristol
+Burlington
+Broad Brook
+Canaan
+Canton
+Canton Center
+Colebrook
+Collinsville
+East Berlin
+East Canaan
+East Glastonbury
+East Granby
+East Hartland
+East Windsor Hill
+Ellington
+Farmington
+Falls Village
+Farmington
+Glastonbury
+Farmington
+Granby
+Berlin
+Lakeville
+Manchester
+Manchester
+Manchester
+Bolton
+Manchester
+New Britain
+New Britain
+New Britain
+New Britain
+New Hartford
+Norfolk
+North Canton
+North Granby
+Pine Meadow
+Plainville
+Barkhamsted
+Poquonock
+Riverton
+Vernon Rockville
+Rocky Hill
+Salisbury
+Sharon
+Simsbury
+Somers
+Somersville
+South Glastonbury
+South Windsor
+Stafford
+Stafford Springs
+Staffordville
+Suffield
+Taconic
+Suffield
+Tariffville
+Enfield
+Enfield
+Tolland
+Unionville
+Unionville
+East Windsor
+Weatogue
+West Granby
+West Hartland
+West Simsbury
+West Suffield
+Winchester Center
+Windsor
+Windsor Locks
+Winsted
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+West Hartford
+East Hartford
+Wethersfield
+West Hartford
+Newington
+Hartford
+Hartford
+Hartford
+West Hartford
+East Hartford
+West Hartford
+Hartford
+Hartford
+Hartford
+West Hartford
+East Hartford
+Wethersfield
+Newington
+Hartford
+West Hartford
+Hartford
+West Hartford
+East Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Willimantic
+Abington
+Amston
+Andover
+Ballouville
+Brooklyn
+Chaplin
+Columbia
+Coventry
+Danielson
+Dayville
+Eastford
+East Killingly
+East Woodstock
+Fabyan
+Grosvenor Dale
+Hampton
+Hebron
+Lebanon
+Mansfield Center
+Mansfield Depot
+North Franklin
+North Grosvenordale
+North Windham
+Pomfret
+Pomfret Center
+Putnam
+Quinebaug
+Rogers
+Scotland
+South Willington
+South Windham
+South Woodstock
+Storrs Mansfield
+Storrs Mansfield
+Thompson
+Ashford
+Willington
+Windham
+Woodstock
+Woodstock Valley
+New London
+Baltic
+Canterbury
+Central Village
+East Lyme
+Bozrah
+Gales Ferry
+Gilman
+Mashantucket
+Ledyard
+Groton
+Groton
+Hanover
+Jewett City
+Montville
+Moosup
+Mystic
+Niantic
+North Stonington
+Norwich
+Preston
+Oakdale
+Old Lyme
+Old Mystic
+Oneco
+Plainfield
+Quaker Hill
+South Lyme
+Sterling
+Stonington
+Pawcatuck
+Taftville
+Uncasville
+Versailles
+Voluntown
+Waterford
+Waterford
+Wauregan
+West Mystic
+Yantic
+Ansonia
+Beacon Falls
+Botsford
+Branford
+Cheshire
+Centerbrook
+Cheshire
+Cheshire
+Chester
+Clinton
+Cobalt
+Colchester
+Cromwell
+Deep River
+Derby
+Killingworth
+Salem
+Durham
+East Haddam
+East Hampton
+Essex
+Guilford
+Haddam
+Hadlyme
+Hawleyville
+Higganum
+Ivoryton
+Madison
+Marion
+Marlborough
+Meriden
+Meriden
+Meriden
+Middlefield
+Middle Haddam
+Middletown
+Middletown
+Milford
+Milford
+Milldale
+Monroe
+Moodus
+Newtown
+North Branford
+Northford
+North Haven
+North Westchester
+Old Saybrook
+Orange
+Oxford
+Plantsville
+Portland
+Rockfall
+Sandy Hook
+Seymour
+Shelton
+South Britain
+Southbury
+Southington
+Stevenson
+Wallingford
+Wallingford
+Wallingford
+Wallingford
+Stratford
+Westbrook
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+East Haven
+New Haven
+Hamden
+New Haven
+West Haven
+Hamden
+Hamden
+New Haven
+New Haven
+New Haven
+Bethany
+Woodbridge
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+Bridgeport
+Bridgeport
+Bridgeport
+Bridgeport
+Bridgeport
+Bridgeport
+Bridgeport
+Bridgeport
+Trumbull
+Easton
+Stratford
+Stratford
+Bridgeport
+Bridgeport
+Bridgeport
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Prospect
+Wolcott
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Waterbury
+Bantam
+Bethlehem
+Bridgewater
+Cornwall
+Cornwall Bridge
+Gaylordsville
+Goshen
+Kent
+Lakeside
+Litchfield
+Middlebury
+Morris
+Naugatuck
+New Milford
+New Preston Marble Dale
+Northfield
+Oakville
+Pequabuck
+Plymouth
+Roxbury
+Sherman
+South Kent
+Terryville
+Thomaston
+Torrington
+Harwinton
+Torrington
+Washington
+Washington Depot
+Watertown
+West Cornwall
+Woodbury
+Bethel
+Brookfield
+Cos Cob
+Danbury
+Danbury
+New Fairfield
+Danbury
+Danbury
+Danbury
+Danbury
+Darien
+Fairfield
+Fairfield
+Fairfield
+Georgetown
+Greenwich
+Greenwich
+Greenwich
+Greenwich
+Greens Farms
+New Canaan
+New Canaan
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Norwalk
+Old Greenwich
+Redding Center
+Redding Ridge
+Ridgefield
+Riverside
+Ridgefield
+Westport
+Westport
+Weston
+Westport
+Westport
+Southport
+Redding
+Wilton
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Stamford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Litchfield
+Hartford
+Hartford
+Litchfield
+Hartford
+Hartford
+Litchfield
+Hartford
+Hartford
+Hartford
+Hartford
+Tolland
+Hartford
+Litchfield
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Litchfield
+Hartford
+Hartford
+Hartford
+Tolland
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Litchfield
+Litchfield
+Hartford
+Hartford
+Litchfield
+Hartford
+Litchfield
+Hartford
+Litchfield
+Tolland
+Hartford
+Litchfield
+Litchfield
+Hartford
+Tolland
+Tolland
+Hartford
+Hartford
+Tolland
+Tolland
+Tolland
+Hartford
+Litchfield
+Hartford
+Hartford
+Hartford
+Hartford
+Tolland
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Litchfield
+Hartford
+Hartford
+Litchfield
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Hartford
+Windham
+Windham
+Tolland
+Tolland
+Windham
+Windham
+Windham
+Tolland
+Tolland
+Windham
+Windham
+Windham
+Windham
+Windham
+Windham
+Windham
+Windham
+Tolland
+New London
+Tolland
+Tolland
+New London
+Windham
+Windham
+Windham
+Windham
+Windham
+Windham
+Windham
+Windham
+Tolland
+Windham
+Windham
+Tolland
+Tolland
+Windham
+Windham
+Tolland
+Windham
+Windham
+Windham
+New London
+New London
+Windham
+Windham
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+Windham
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+Windham
+Windham
+New London
+New London
+Windham
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+New London
+Windham
+New London
+New London
+New Haven
+New Haven
+Fairfield
+New Haven
+New Haven
+Middlesex
+New Haven
+New Haven
+Middlesex
+Middlesex
+Middlesex
+New London
+Middlesex
+Middlesex
+New Haven
+Middlesex
+New London
+Middlesex
+Middlesex
+Middlesex
+Middlesex
+New Haven
+Middlesex
+New London
+Fairfield
+Middlesex
+Middlesex
+New Haven
+Hartford
+Hartford
+New Haven
+New Haven
+New Haven
+Middlesex
+Middlesex
+Middlesex
+Middlesex
+New Haven
+New Haven
+Hartford
+Fairfield
+Middlesex
+Fairfield
+New Haven
+New Haven
+New Haven
+New London
+Middlesex
+New Haven
+New Haven
+Hartford
+Middlesex
+Middlesex
+Fairfield
+New Haven
+Fairfield
+New Haven
+New Haven
+Hartford
+Fairfield
+New Haven
+New Haven
+New Haven
+New Haven
+Fairfield
+Middlesex
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+New Haven
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+New Haven
+Litchfield
+New Haven
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Fairfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Litchfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
+Fairfield
